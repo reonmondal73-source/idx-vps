@@ -1,1 +1,3 @@
-# idx-vps
+# USE THIS CMD FOT ONLY IDX AND GITHUB 
+
+# USE THIS CMD
